@@ -38,7 +38,7 @@ metadata:
     #  favicon_auto must be a public URL image file with a minimum 192x192 pixels 
     # favicon_auto: https://raw.githubusercontent.com/tabler/tabler/dev/demo/favicon.ico
     # Name of the author of the project, used into various places of the theme like footer. Default is empty
-    favicon: /img/favicon-scroll-frames.png
+    favicon: 
     # Name of the author of the project, used into various places of the theme like footer. Default is empty
     author: Olivier Blanc
     # Theme color metadata used in some browsers like Chrome that applies this color on browser address bar.
